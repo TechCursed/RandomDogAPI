@@ -1,0 +1,33 @@
+body{
+    background-color: #ECC5FB;
+
+}
+
+*{
+    
+  font-family: 'Covered By Your Grace', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Noto Serif Telugu', serif;
+  text-align: center;
+}
+
+#dogimage{
+    height: 100%;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1px;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    margin: 0 auto;
+    display: block;
+    background-color: black;
+    color: #ECC5FB;
+    border-radius: 1px;
+}
